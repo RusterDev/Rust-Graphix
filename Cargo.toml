@@ -1,0 +1,12 @@
+[package]
+name = "RustGraphix"
+version = "0.1.0"
+authors = ["RusterDev rusterpro4000@gmail.com"]
+edition = "2021"
+description = "Rust-RustGraphix is a rust library for math."
+license = "MIT"
+repository = "https://github.com/RusterDev/Rust-Graphix"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
