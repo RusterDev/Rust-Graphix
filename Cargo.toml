@@ -1,9 +1,13 @@
 [package]
 name = "RustGraphix"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["RusterDev rusterpro4000@gmail.com"]
 edition = "2021"
-description = "Rust-RustGraphix is a rust library for math."
+description = "Rust-RustGraphix is a rust library for math.
+
+LOG[v: 0.2.0]  -- Matrices have been added:
+two-dimensional and three-dimensional + matrix methods.
+"
 license = "MIT"
 repository = "https://github.com/RusterDev/Rust-Graphix"
 

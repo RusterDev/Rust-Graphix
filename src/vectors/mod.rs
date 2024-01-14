@@ -1,2 +1,2 @@
-pub mod Vec2;
-pub mod  Vec3;
+pub mod vec2;
+pub mod vec3;
